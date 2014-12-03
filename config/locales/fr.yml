@@ -1,0 +1,7 @@
+fr:
+  titre : "bonjour, Rails!"
+  phrase : "Une petite phrase"
+  welcome:
+   index:
+    titre_index: "Salut, Rails!!!!!!"
+ 
